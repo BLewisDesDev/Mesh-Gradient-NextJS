@@ -1,0 +1,15 @@
+.main {
+	height: 100vh;
+	width: 100%;
+	background: lightgrey;
+}
+
+.canvas {
+	/* Gradient Color */
+	--gradient-color-1: #6ec3f4;
+	--gradient-color-2: #3a3aff;
+	--gradient-color-3: #ff61ab;
+	--gradient-color-4: #e63946;
+	height: 100vh;
+	width: 100%;
+}
