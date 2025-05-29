@@ -8,7 +8,7 @@ const Canvas = (props) => {
 
 	useEffect(() => {
 		gradient.initGradient("#gradient-canvas");
-	}, []);
+	}, [gradient]);
 
 	return (
 		<canvas
